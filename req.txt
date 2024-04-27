@@ -4,4 +4,3 @@ fastai
 tensorflow
 Flask
 seaborn
-pickle
